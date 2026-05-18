@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 
 export default function AboutPreview({ bbqImage }) {
   const highlights = [
-    { icon: Flame, title: 'รมควัน 9-10 ชม.', desc: 'ด้วยไม้สำโยแท้' },
+    { icon: Flame, title: 'รมควัน 9-10 ชม.', desc: 'ด้วยไม้ลำไยแท้' },
     { icon: Award, title: 'เนื้อพรีเมียม', desc: '6 ส่วนให้เลือก' },
     { icon: Clock, title: 'เปิดทุกวัน', desc: '17:00 - 23:00' },
   ];
@@ -51,7 +51,7 @@ export default function AboutPreview({ bbqImage }) {
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-8">
               Riburs BBQ เราคัดเนื้อวัวคุณภาพพรีเมียม 6 ส่วนให้คุณเลือก 
-              รมควันด้วยไม้สำโย 9-10 ชั่วโมง ทำให้เนื้อมีกลิ่นหอม นุ่ม ฉ่ำ 
+              รมควันด้วยไม้ลำไย 9-10 ชั่วโมง ทำให้เนื้อมีกลิ่นหอม นุ่ม ฉ่ำ 
               สไตล์ American BBQ แท้ๆ ที่ขอนแก่น
             </p>
 

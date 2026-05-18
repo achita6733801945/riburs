@@ -48,7 +48,7 @@ const categories = [
 ];
 
 const bbqItems = [
-  { name: 'BBQ Brisket', price: '2.20 ฿/Gram', desc: 'รมควัน 9-10 ชั่วโมง รสชาติเนื้อเข้มข้น พร้อมความฉ่ำและกลิ่นรมควันจากไม้สำโย', ...R.brisket },
+  { name: 'BBQ Brisket', price: '2.20 ฿/Gram', desc: 'รมควัน 9-10 ชั่วโมง รสชาติเนื้อเข้มข้น พร้อมความฉ่ำและกลิ่นรมควันจากไม้ลำไย', ...R.brisket },
   { name: 'Pork Ribs (Half Rack)', price: '679 ฿', desc: 'Smoked pork ribs for 6 hrs. with special Riburs BBQ rub and brushed with Riburs BBQ sauce', ...R.porkRibs },
   { name: 'Pork Ribs (Full Rack)', price: '1,199 ฿', desc: 'Smoked pork ribs for 6 hrs. Full rack with special Riburs BBQ rub', ...R.porkRibs },
   { name: 'Beef Ribs', price: '2.20 ฿/Gram', desc: 'Only salt & black pepper on the meat then Smoked beef ribs for 9-10 hrs. Riburs BBQ sauce on top', ...R.beefRibs },
@@ -137,7 +137,7 @@ export default function Menu() {
         {show('bbq') && (
           <MenuSection
             title="BBQ — Tender & Juicy"
-            subtitle="รมควันด้วยไม้สำโย 9-10 ชั่วโมง"
+            subtitle="รมควันด้วยไม้ลำไย 9-10 ชั่วโมง"
             layout="featured"
             items={bbqItems}
           />

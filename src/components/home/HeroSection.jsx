@@ -39,7 +39,7 @@ export default function HeroSection({ heroImage }) {
             </h1>
 
             <p className="text-white/70 text-lg sm:text-xl leading-relaxed mb-8 max-w-lg">
-              เนื้อคุณภาพพรีเมียม รมควันด้วยไม้สำโย 9-10 ชั่วโมง
+              เนื้อคุณภาพพรีเมียม รมควันด้วยไม้ลำไย 9-10 ชั่วโมง
               <br />
               สไตล์ American BBQ แท้ๆ ที่ขอนแก่น
             </p>

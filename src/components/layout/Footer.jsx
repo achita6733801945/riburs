@@ -15,7 +15,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              เนื้อคุณภาพพรีเมียม รมควันด้วยไม้สำโย
+              เนื้อคุณภาพพรีเมียม รมควันด้วยไม้ลำไย
               สไตล์ American BBQ ที่ขอนแก่น
             </p>
             <div className="flex gap-4 mt-6">

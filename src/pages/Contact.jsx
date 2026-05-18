@@ -17,7 +17,7 @@ export default function Contact() {
             <span className="text-primary text-sm tracking-[0.3em] uppercase font-medium">Contact</span>
           </div>
           <h1 className="font-heading text-4xl sm:text-5xl font-bold">ติดต่อเรา</h1>
-          <p className="text-muted-foreground mt-3">มาเจอกันที่ร้าน หรือติดต่อผ่านช่องทางด้านล่าง</p>
+          <p className="text-muted-foreground mt-3">ติดต่อทางหน้าร้าน หรือติดต่อผ่านช่องทางด้านล่าง</p>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
